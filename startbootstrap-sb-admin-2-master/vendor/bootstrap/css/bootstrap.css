@@ -5790,6 +5790,7 @@ button.list-group-item-danger.active:focus {
 .panel-danger > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #ebccd1;
 }
+#notification {float: right; background-color: green;}
 .embed-responsive {
   position: relative;
   display: block;
